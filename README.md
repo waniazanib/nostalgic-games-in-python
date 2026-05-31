@@ -70,10 +70,6 @@ The Game Hub window will open in fullscreen mode with four options:
 **Chess Game**:
 - Follow standard chess rules and controls
 
-## Environment Variables
-
-No environment variables are required for this project. All configuration is handled internally.
-
 ## Folder Structure
 
 ```
@@ -86,18 +82,6 @@ nostalgic-games-in-python/
 └── README.md         # This file
 ```
 
-## Future Improvements
-
-- Add sound effects and background music
-- Implement game difficulty settings persistence
-- Add high score leaderboard
-- Create additional classic games (Pac-Man, Breakout, etc.)
-- Add animations and visual effects
-- Implement multiplayer support for applicable games
-- Create installer/executable for distribution
-- Add settings menu for customization
-- Implement pause functionality during gameplay
-- Add tutorial/help screens for each game
 
 ## License
 
